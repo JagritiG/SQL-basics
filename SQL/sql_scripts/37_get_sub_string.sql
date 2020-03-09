@@ -1,0 +1,1 @@
+SELECT SUBSTRING('SQL Server', 1, 3) AS substring;
